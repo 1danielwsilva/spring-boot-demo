@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Refactored module structure for clarity
 - Consolidated duplicate helper functions
+
+## 2026-04-29
+- Reviewed open issues, added labels
+- Added CONTRIBUTING.md stub
