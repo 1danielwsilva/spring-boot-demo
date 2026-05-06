@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Checked for memory leaks in long-running path
 - Added basic retry logic for network requests
+
+## 2026-05-06
+- Added basic usage examples to README
